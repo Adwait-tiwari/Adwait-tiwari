@@ -1,25 +1,98 @@
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Adwait Tiwari</h1>
-<h3 align="center">A passionate Fullstack and Blockchain Developer from India</h3>
+<h3 align="center">🚀 Full Stack & Blockchain Developer | Passionate about Web3, AI & Open Source</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adwait-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="adwait-tiwari" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@adwait93371" target="blank"><img src="https://img.shields.io/twitter/follow/@adwait93371?logo=twitter&style=for-the-badge" alt="@adwait93371" /></a> </p>
-
-- 🌱 I’m currently learning **Rust**
-
-- 📫 How to reach me **tiwariadwait3@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@adwait93371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@adwait93371" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adwait-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adwait-tiwari" height="30" width="40" /></a>
-<a href="https://instagram.com/tiwariadwait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiwariadwait" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adwait tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adwait tiwari" height="30" width="40" /></a>
+<!-- Profile Views & Followers -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adwait-tiwari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/adwait-tiwari?tab=followers">
+    <img src="https://img.shields.io/github/followers/adwait-tiwari?label=Followers&style=social" alt="Followers" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adwait-tiwari&show_icons=true&locale=en&layout=compact" alt="adwait-tiwari" /></p>
+## **👨‍💻 About Me**
+- 🌱 Currently exploring **Rust**, **Solidity**, and **Web3 Development**
+- 💡 Passionate about **Full Stack Development**, **Blockchain**, and **AI**
+- 🎯 Goal: To contribute to **innovative open-source projects** and build **scalable Web3 apps**
+- 📫 Reach me at **tiwariadwait3@gmail.com**
+- ⚡ Fun fact: I love solving **DSA problems** & building **real-world projects**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adwait-tiwari&show_icons=true&locale=en" alt="adwait-tiwari" /></p>
+---
+
+## **🌐 Connect with Me**
+<p align="left">
+<a href="https://twitter.com/adwait93371" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white" height="30"/></a>
+<a href="https://linkedin.com/in/adwait-tiwari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white" height="30"/></a>
+<a href="https://instagram.com/tiwariadwait" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white" height="30"/></a>
+<a href="https://leetcode.com/adwait_tiwari" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white" height="30"/></a>
+<a href="mailto:tiwariadwait3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white" height="30"/></a>
+</p>
+
+---
+
+## **🛠️ Tech Stack & Tools**
+### **🚀 Languages & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,mysql,solidity,rust,c,cpp,python,git" />
+</p>
+
+### **🧰 Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,github,vercel,netlify,docker,linux" />
+</p>
+
+---
+
+## **📊 GitHub Analytics**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adwait-tiwari&theme=tokyonight" alt="GitHub Streak" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adwait-tiwari&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwait-tiwari&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
+
+---
+
+## **📌 Featured Projects**
+Here are some of my top projects 🚀:
+
+| Project | Tech Stack | Description |
+|--------|------------|------------|
+| [**Decentralized Voting App**](https://github.com/adwait-tiwari/Decentralized-Voting-App) | Solidity • React • Node.js • Web3.js | A secure blockchain-based voting platform. |
+| [**Automatic Question Paper Generator**](https://github.com/adwait-tiwari/Question-Paper-Generator) | MERN • Gemini API | AI-powered system to generate exam papers automatically. |
+| [**SkillBridge**](https://github.com/adwait-tiwari/SkillBridge) | MERN • Firebase | A real-time skill exchange platform for learners & teachers. |
+
+---
+
+## **🏆 Achievements & Badges**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adwait-tiwari&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## **📈 Contribution Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adwait-tiwari&theme=react-dark" alt="Contribution Graph" />
+</p>
+
+---
+
+## **⚡ Fun Extras**
+- 🔹 Practicing **DSA** on [LeetCode](https://leetcode.com/adwait_tiwari)
+- 🔹 Learning **Web3 & Rust** for next-gen decentralized apps
+- 🔹 Open to collaborating on **AI + Blockchain + MERN** projects
+
+---
+
+## **💬 Quote of the Day**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>

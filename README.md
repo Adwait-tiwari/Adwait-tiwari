@@ -59,8 +59,7 @@
 
 ## **📊 GitHub Analytics**
 <p align="center">
-  <!-- Fixed Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=adwait-tiwari&theme=radical&hide_border=true" height="200" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=adwait-tiwari&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">

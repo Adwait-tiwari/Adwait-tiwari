@@ -59,16 +59,20 @@
 
 ## **📊 GitHub Analytics**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adwait-tiwari&theme=radical&hide_border=true" height="200" />
+  <!-- Fixed Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=adwait-tiwari&theme=radical&hide_border=true" height="200" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adwait-tiwari&show_icons=true&theme=radical&hide_border=true" height="200" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=adwait-tiwari&show_icons=true&theme=radical&hide_border=true" height="200" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwait-tiwari&layout=compact&theme=radical&hide_border=true" height="200" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwait-tiwari&layout=compact&theme=radical&hide_border=true" height="200" alt="Top Languages" />
 </p>
+
 
 ---
 

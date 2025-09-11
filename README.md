@@ -28,7 +28,6 @@
 - 🌱 Currently diving deep into **Rust**, **Solidity**, and **Web3 Development**
 - 🛠️ Exploring **AI + Blockchain + MERN** integrations
 - 🚀 Contributing to **open-source** & building impactful **real-world projects**
-- 🧠 Practicing **DSA** daily on **LeetCode**
 - 📧 Reach me at **tiwariadwait3@gmail.com**
 
 ---
